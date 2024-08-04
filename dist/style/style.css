@@ -18,6 +18,7 @@ div {
 .js-play-button {
     border: none;
     cursor: pointer;
+    background-color: transparent;
 }
 
 .js-video-container {
