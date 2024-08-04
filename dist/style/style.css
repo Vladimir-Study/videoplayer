@@ -7,6 +7,10 @@ div {
     height: 600px;
 }
 
+.js-play-button {
+    border: none;
+}
+
 .js-video-container {
     width: 100%;
     height: 100%
