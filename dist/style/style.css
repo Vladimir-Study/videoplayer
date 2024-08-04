@@ -7,6 +7,10 @@ div {
     height: 600px;
 }
 
+.control-buttons {
+    background-color: black;
+}
+
 .js-play-button {
     border: none;
     cursor: pointer;
