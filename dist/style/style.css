@@ -11,11 +11,11 @@ div {
     background-color: black;
 }
 
-.fa-play {
+.fa-play, .fa-pause {
     color: white;
 }
 
-.js-play-button {
+.js-play-button, .pause-button {
     border: none;
     cursor: pointer;
     background-color: transparent;
