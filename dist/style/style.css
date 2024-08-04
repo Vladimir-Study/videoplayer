@@ -16,13 +16,14 @@
 
 .fa-play, .fa-pause, .fa-volume-up, .fa-volume-off {
     font-size: 20px;
-    padding-left: 5px;
-    padding-bottom: 5px;
     color: white;
 }
 
 .play-btn, .pause-btn, .volume-btn, .mute-btn{
     border: none;
+    margin: 5px 0 5px 5px;
+    width: 30px;
+    height: 30px;
     cursor: pointer;
     background-color: transparent;
 }
