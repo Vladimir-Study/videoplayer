@@ -9,6 +9,7 @@ div {
 
 .js-play-button {
     border: none;
+    cursor: pointer;
 }
 
 .js-video-container {
