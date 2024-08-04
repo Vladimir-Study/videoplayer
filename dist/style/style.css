@@ -14,11 +14,11 @@
     background-color: black;
 }
 
-.fa-play, .fa-pause {
+.fa-play, .fa-pause, .fa-volume-up, .fa-volume-off {
     color: white;
 }
 
-.play-btn, .pause-btn {
+.play-btn, .pause-btn, .volume-btn, .mute-btn{
     border: none;
     cursor: pointer;
     background-color: transparent;
