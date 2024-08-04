@@ -1,0 +1,21 @@
+div {
+    color: white;
+}
+
+#player {
+    width: 800px;
+    height: 600px;
+}
+
+.js-video-container {
+    width: 100%;
+    height: 100%
+}
+
+.js-progress {
+    background-color: grey;
+}
+
+.js-progress-slider {
+    background-color: red;
+}
