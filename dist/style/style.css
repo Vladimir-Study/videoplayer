@@ -1,8 +1,8 @@
-div {
-    color: white;
-}
+/*.timeline {*/
+/*    color: white;*/
+/*}*/
 
-#player {
+.player {
     width: 800px;
     height: 600px;
 }
@@ -17,21 +17,21 @@ div {
     height: 20px;
 }
 
-.js-play-button, .js-pause-button {
+.play-btn, .pause-btn {
     border: none;
     cursor: pointer;
     background-color: transparent;
 }
 
-.js-video-container {
+.video-container {
     width: 100%;
     height: 100%
 }
 
-.js-progress {
+.progress {
     background-color: grey;
 }
 
-.js-progress-slider {
+.progress-slider {
     background-color: red;
 }
