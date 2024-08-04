@@ -11,6 +11,10 @@ div {
     background-color: black;
 }
 
+.fa-play {
+    color: white;
+}
+
 .js-play-button {
     border: none;
     cursor: pointer;
