@@ -13,9 +13,11 @@ div {
 
 .fa-play, .fa-pause {
     color: white;
+    width: 20px;
+    height: 20px;
 }
 
-.js-play-button, .pause-button {
+.js-play-button, .js-pause-button {
     border: none;
     cursor: pointer;
     background-color: transparent;
