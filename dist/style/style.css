@@ -18,12 +18,9 @@
     background-color: black;
 }
 
-.fa-play, .fa-pause, .fa-volume-up, .fa-volume-off, .fa-arrows-alt{
+.control-btn {
     font-size: 20px;
     color: white;
-}
-
-.play-btn, .pause-btn, .volume-btn, .mute-btn, .fullscreen-btn{
     border: none;
     margin: 5px 0 5px 5px;
     width: 30px;
